@@ -23,7 +23,7 @@ function LandingPage() {
         </section>
       </div>
       <div className="landing-image" style={{maxHeight: '100%', maxWidth: '50%'}}>
-        <Image id="landing-image" src="/../public/pexels-marek-339379.jpg" alt="camera" width={100} height={50} objectFit="contain" layout="responsive"/>
+        <Image id="landing-image" src="/pexels-marek-339379.jpg" alt="camera" width={100} height={50} objectFit="contain" layout="responsive"/>
       </div>
     </main>
   )
